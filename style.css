@@ -595,7 +595,7 @@ img, svg, video{
 
 .prose p{
   font-family: "TiemposText", Georgia, "Times New Roman", Times, serif;
-  font-size: 28px;
+  font-size: 19px;
   line-height: 1.5;
   margin: 0 0 .85em 0;
   color: var(--text);
