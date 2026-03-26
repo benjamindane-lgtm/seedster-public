@@ -1417,3 +1417,26 @@ width: 100%;
 height: 100%;
 object-fit: cover;
 }
+.image-sequence__picture,
+.image-sequence__image {
+opacity: 1 !important;
+visibility: visible !important;
+display: block !important;
+}
+
+.image-sequence__image {
+position: absolute !important;
+inset: 0 !important;
+width: 100% !important;
+height: 100% !important;
+object-fit: cover !important;
+z-index: 2 !important;
+}
+
+.image-sequence__picture {
+position: absolute !important;
+inset: 0 !important;
+width: 100% !important;
+height: 100% !important;
+z-index: 1 !important;
+}
