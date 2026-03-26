@@ -1440,3 +1440,6 @@ width: 100% !important;
 height: 100% !important;
 z-index: 1 !important;
 }
+.hero-portrait__headline {
+color: lime !important;
+}
